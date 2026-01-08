@@ -1,72 +1,50 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  
-  <h1>Hi there, I'm Owoseni Clinton 👋</h1>
-  
-  <h3>
-    🚀 Fullstack Developer | React & Next.js Specialist
-  </h3>
-  
-  <p>
-    <i>Passionate about building scalable SaaS applications and performance-driven web solutions.</i>
-    <br/>
-    Based in Nigeria 🇳🇬
-  </p>
+# Owoseni Clinton
 
-  <p>
-    <a href="https://clintondevlab.netlify.app">
-      <img src="https://img.shields.io/badge/Portfolio-ClintonDevLab-0f172a?style=for-the-badge&logo=About.me&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/clinton-phillips-316a42250">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/phillips464">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="mailto:clintonphillips464@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-  
-  <br/>
+**Full-Stack Developer** 
+
+Building scalable web and mobile applications with modern technologies. Focused on clean code, performance, and user experience.
+
+## Technical Expertise
+
+```javascript
+const skills = {
+  frontend: ["React", "Next.js", "React Native", "JavaScript", "TypeScript", "HTML", "CSS", "Redux Toolkit"],
+  backend: ["Node.js", "Express.js", "Prisma", "JWT", "Passport.js", "Paystack", "REST API"],
+  databases: ["MongoDB", "PostgreSQL"],
+  styling: ["Tailwind CSS", "Shadcn UI", "Material UI", "Radix UI", "Framer Motion", "Sass"],
+  tools: ["Git", "Redux", "Chart.js"],
+};
+```
+
+## GitHub Activity
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clinton401&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton401&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
 </div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Clinton401&theme=dark&hide_border=true&background=0d1117)
+
+## Notable Projects
+
+My work spans full-stack applications, mobile solutions, and developer tools. Visit my portfolio to see detailed case studies and live demos.
+
+**Portfolio**: [clintondevlab.netlify.app](https://clintondevlab.netlify.app)
+
+## Open for Collaboration
+
+I'm interested in challenging projects that involve modern web technologies, performance optimization, and scalable architecture. Feel free to reach out if you're working on something interesting.
+
+**Email**: clintonphillips464@gmail.com
 
 ---
 
-### 📊 **GitHub Analytics**
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Clinton401&show_icons=true&theme=transparent&hide_border=true&title_color=0070f3&text_color=9F9F9F&icon_color=0070f3&count_private=true" alt="Clinton's Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton401&theme=transparent&hide_border=true&ring=0070f3&fire=0070f3&currStreakLabel=0070f3&stroke=00000000" alt="Clinton's Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton401&layout=compact&theme=transparent&hide_border=true&langs_count=8&text_color=9F9F9F&title_color=0070f3" alt="Top Languages" />
   
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=clinton401&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/clinton-phillips-316a42250)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phillips464)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://clintondevlab.netlify.app)
 
-<br/>
-
-### 🛠️ **Technical Arsenal**
-
-<div align="center">
-
-| **Category** | **Technologies** |
-|:---:|:---|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| **Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![ChartJS](https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chart.js&logoColor=white) |
+![Profile Views](https://komarev.com/ghpvc/?username=Clinton401&color=grey&style=flat)
 
 </div>
-
----
