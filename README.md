@@ -6,7 +6,7 @@
 
 # Owoseni Clinton
 
-**Full-Stack & Mobile Developer** based in Lagos, Nigeria.
+**Full-Stack & Mobile Developer** based in Nigeria.
 
 I build production-grade SaaS products, backend infrastructure, and native mobile applications. 4+ years across the complete stack, from PostgreSQL schema to deployed UI to native mobile screens.
 
